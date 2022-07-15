@@ -1,6 +1,6 @@
 #  ij.start.canon
 
-[![ij.start.canon](getstaredd.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 Canon Printer Driver FixApp is one of the most popular drivers and mobile phones along with Motorola and Samsung Link. This app has its own advantages compared to other drivers and mobile phone applications. Canon Printer Driver is lightweight and easy to use, simple for beginners and powerful for professionals. **[ij.start.canon](https://ijc0nstrt.github.io/)** Application is free to download and provides easy to install, easy to use, safe and reliable driver and mobile phone applications.
 
