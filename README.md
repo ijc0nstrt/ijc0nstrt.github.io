@@ -2,7 +2,7 @@
 
 [![ij.start.canon](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-Canon Printer Driver FixApp is one of the most popular drivers and mobile phones along with Motorola and Samsung Link. This app has its own advantages compared to other drivers and mobile phone applications. Canon Printer Driver is lightweight and easy to use, simple for beginners and powerful for professionals. **[ij.start.canon](https://ijc0nstrt.github.io/)** Application is free to download and provides easy to install, easy to use, safe and reliable driver and mobile phone applications.
+**Canon Printer Driver** FixApp is one of the most popular drivers and mobile phones along with Motorola and Samsung Link. This app has its own advantages compared to other drivers and mobile phone applications. Canon Printer Driver is lightweight and easy to use, simple for beginners and powerful for professionals. **[ij.start.canon](https://ijc0nstrt.github.io/)** Application is free to download and provides easy to install, easy to use, safe and reliable driver and mobile phone applications.
 
 
 ##  Top features of canon printer driver for windows pc -
@@ -30,13 +30,13 @@ Canon Printer Driver is a driver and mobile phone application from Canon such as
 * Save the downloaded file to your computer.
 * Double-click on the downloaded Canon Printer Driver installer file.
 * Now, a smart screen might appear and ask for a confirmation.
-* Click “Yes” to confirm.
+* Click **“Yes”** to confirm.
 * Finally, follow the installation instructions until you get a confirmation notification of a successful installation process.
 
 
 ##  ij.start.canon Printer Setup Via USB Cable
 
-If your Canon printer fails to connect wirelessly, or you don't want the lengthy process, a USB cable setup may work for you. You have to make sure that the USB cable you are using is 3 to 5 meters long. Then, start the ij.start.canon with the steps below :
+If your Canon printer fails to connect wirelessly, or you don't want the lengthy process, a USB cable setup may work for you. You have to make sure that the USB cable you are using is 3 to 5 meters long. Then, start the **ij.start.canon** with the steps below :
 
 1. Keep your Canon printer on.
 2. You can either use the CD setup or online driver download method. Therefore, insert the Canon setup CD that shipped with the printer. Otherwise, go through step 3.
